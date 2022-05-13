@@ -4,8 +4,7 @@ A summary of papers for Neural Question Generation (NQG)
 ## Models
 
 ### Question Type Modeling
-1. **MixQG: Neural Question Generation with Mixed Answer Types**. NAACL, 2022. \
-*Lidiya Murakhovs’ka, Chien-Sheng Wu, Tong Niu, Wenhao Liu, Caiming Xiong*
+
 
 ## Applications
 
@@ -16,6 +15,8 @@ Multi-hop Question Generation**. ACL, 2022.
 2. **Question Generation for Reading Comprehension Assessment by
 Modeling How and What to Ask**. ACL, 2022. \
 *Bilal Ghanem1, Lauren Lutz Coleman, Julia Rivard Dexter, Spencer McIntosh von der Ohe, Alona Fyshe*
+3. **MixQG: Neural Question Generation with Mixed Answer Types**. NAACL, 2022. \
+*Lidiya Murakhovs’ka, Chien-Sheng Wu, Tong Niu, Wenhao Liu, Caiming Xiong*
 
 ### Education
 1. **A Feasibility Study of Answer-Unaware Question Generation for
